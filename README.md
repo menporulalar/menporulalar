@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Thiru Menporulalar alias (Jvee/Jani/Janu) 👋</h1>
-<h3 align="center">Engineering Manager & Principal Architect · AI Engineering · Agentic Systems · LLMOps</h3>
+<h3 align="center">Engineering Leader & Architect · AI Engineering · Agentic Systems · LLMOps</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/20%2B%20yrs-Software%20Engineering-1f6feb?style=flat-square" />
