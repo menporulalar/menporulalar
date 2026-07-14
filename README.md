@@ -19,12 +19,11 @@
 
 I spent 20+ years building and leading engineering teams — the last 10+ as an Engineering Manager and Principal Architect leading 10+ direct engineers (20+ including contractors) across enterprise SaaS and digital experience platforms.
 
-In 2026, I started to build **solo, AI-first, and in public.** I'm now deep in agentic workflows, RAG architectures, multi-provider LLM routing, and spec-driven development — applying two decades of architecture and delivery discipline to the AI-native way of building software.
+I am building **solo, AI-first, and in public.** I'm now deep in agentic workflows, RAG architectures, multi-provider LLM routing, and spec-driven development — applying two decades of architecture and delivery discipline to the AI-native way of building software.
 
 - 🔭 Currently building **[SkillsHome](https://skillshome.me/lively/janakiraman)** — an AI-powered Living Professional Identity platform
 - 🌱 Deep in agentic pipelines, MCP, A2A protocol, and LLMOps practices
 - ✍️ Writing about spec-driven development and AI-era professional identity
-- 🏆 Recognised as **Rising Leader — Juniper Networks (2023)**
 - 💬 Ask me about engineering leadership, AI adoption in eng orgs, or agentic architecture
 
 ---
