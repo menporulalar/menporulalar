@@ -98,6 +98,8 @@ In 2026, I stepped away from traditional employment to build **solo, AI-first, a
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=menporulalar)](https://git.io/streak-stats)
+
 ### 📫 Let's Connect
 
 <p>
