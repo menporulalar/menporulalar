@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Janakiraman Veerappan 👋</h1>
+<h1 align="center">Hi, I'm Thiru Menporulalar alias (Jvee/Jani/Janu) 👋</h1>
 <h3 align="center">Engineering Manager & Principal Architect · AI Engineering · Agentic Systems · LLMOps</h3>
 
 <p align="center">
